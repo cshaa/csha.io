@@ -1,9 +1,7 @@
-<script lang="ts">
-	import type { PageData } from "./$types";
-
-  export let data: PageData;
-</script>
-<h1>Welcome to my pageeee!</h1>
-<p>If you're feeling goofy, commit industrial sabotage.</p>
-<p>Let's see what example.com had to say: {data.opinion}</p>
-
+<h1>csha's homepage</h1>
+<p>
+	Hey this is the personal page of Michal Grňo. You might want to check out <a
+		href="https://github.com/m93a">my GitHub</a
+	>. If you want to buy a ticket for ArtyParty, go to the subdomain:
+	<a href="https://artyparty.csha.io">artyparty.csha.io</a>
+</p>
