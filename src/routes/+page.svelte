@@ -14,14 +14,15 @@
 	<p>
 		Currently, I study humanities at <a href="https://fhs.cuni.cz/FHSENG-1.html">FHS</a>. Before
 		that, I studied physics at <a href="https://www.mff.cuni.cz/en">MFF</a> where I was interested
-		especially Lagrangian, Hamiltonian and quantum mechanics, group theory and differential
+		especially in Lagrangian, Hamiltonian and quantum mechanics, group theory and differential
 		geometry. In my bachelor's thesis, which
 		<a href="https://github.com/m93a/thesis-magnetic-transport">you can read here</a>, I
 		analytically investigated the spectra (ie. allowed energies) of electrons in a homogeneous
 		magnetic field and some kind of electrostatic field.
 	</p>
 	<p>
-		You might want to check out <a href="https://github.com/m93a">my GitHub</a>.<br />
+		You might want to check out <a href="https://github.com/m93a">my GitHub</a> or
+		<a href="https://spinkdistro.art">our zine distribution</a>.<br />
 		You <strong>MUST</strong> check out <a href="https://garden.csha.io">my digital garden</a>!
 	</p>
 
