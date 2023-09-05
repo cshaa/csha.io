@@ -1,0 +1,77 @@
+@font-face {
+	font-family: 'UniWide';
+	src: url('/UniWide.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+html,
+body {
+	font-family: Inter, 'sans';
+	display: flex;
+	justify-content: center;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	max-width: 100%;
+	overflow: hidden;
+}
+
+html {
+	overflow-y: auto;
+	height: 100%;
+	align-items: start;
+}
+
+body {
+	align-items: center;
+  min-height: 100%;
+}
+
+@media (prefers-color-scheme: dark) {
+	html {
+		background-color: hsl(0, 0%, 15%);
+		color: hsl(0, 0%, 85%);
+	}
+}
+
+main {
+	width: 35em;
+	min-height: 50%;
+	margin: 3em;
+}
+
+h1 {
+	font-family: 'UniWide';
+	font-size: 4rem;
+	letter-spacing: 0.4rem;
+	margin: 0.45rem 0;
+}
+
+p {
+	text-align: justify;
+	line-height: 1.5;
+}
+
+a {
+	color: hsl(240, 100%, 35%);
+	&:visited {
+		color: hsl(255, 100%, 30%);
+	}
+}
+@media (prefers-color-scheme: dark) {
+	a {
+		color: hsl(230, 100%, 75%);
+		&:visited {
+			color: hsl(255, 100%, 80%);
+		}
+	}
+}
+
+figure img {
+	max-width: 100%;
+}
+figure figcaption {
+	width: fit-content;
+	margin: 1rem auto;
+}
