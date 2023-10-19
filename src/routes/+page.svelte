@@ -15,10 +15,9 @@
 		Currently, I study humanities at <a href="https://fhs.cuni.cz/FHSENG-1.html">FHS</a>. Before
 		that, I studied physics at <a href="https://www.mff.cuni.cz/en">MFF</a> where I was interested
 		especially in Lagrangian, Hamiltonian and quantum mechanics, group theory and differential
-		geometry. In my bachelor's thesis, which
-		<a href="https://github.com/m93a/thesis-magnetic-transport">you can read here</a>, I
-		analytically investigated the spectra (ie. allowed energies) of electrons in a homogeneous
-		magnetic field and some kind of electrostatic field.
+		geometry. If you were interested in my bachlor's thesis on the quantum mechanical treatment of a
+		charged particle in a static electromagnetic field,
+		<a href="https://github.com/m93a/thesis-magnetic-transport">you can read here</a>.
 	</p>
 	<p>
 		You might want to check out <a href="https://github.com/m93a">my GitHub</a> or
