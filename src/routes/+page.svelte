@@ -12,15 +12,18 @@
 		get the idea.
 	</p>
 	<p>
-		Currently, I study humanities at <a href="https://fhs.cuni.cz/FHSENG-1.html">FHS</a>. Before
-		that, I studied physics at <a href="https://www.mff.cuni.cz/en">MFF</a> where I was interested
+		I studied physics at <a href="https://www.mff.cuni.cz/en">MFF</a> where I was interested
 		especially in Lagrangian, Hamiltonian and quantum mechanics, group theory and differential
-		geometry. If you were interested in my bachlor's thesis on the quantum mechanical treatment of a
-		charged particle in a static electromagnetic field,
+		geometry. If you were interested in my bachlor's thesis on the quantum mechanical treatment
+		of a charged particle in a static electromagnetic field,
 		<a href="https://github.com/m93a/thesis-magnetic-transport">you can read here</a>.
 	</p>
 	<p>
-		You might want to check out <a href="https://github.com/m93a">my GitHub</a> or
+		After that, I shortly studied humanities at <a href="https://fhs.cuni.cz/FHSENG-1.html">FHS</a>.
+		Now, I'm picking up gardening & permaculture and hoping to grow a food forest!
+	</p>
+	<p>
+		You might want to check out <a href="https://github.com/cshaa">my GitHub</a> or
 		<a href="https://spinkdistro.art">our zine distribution</a>.<br />
 		You <strong>MUST</strong> check out <a href="https://garden.csha.io">my digital garden</a>!
 	</p>
