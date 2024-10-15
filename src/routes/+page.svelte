@@ -7,7 +7,7 @@
 	<h1>csha's den</h1>
 	<p>Hey, welcome to my personal page!</p>
 	<p>
-		I'm a freelance UX designer by day, a neurodivergent anarcho-feminist by night. Just kidding,
+		I'm a freelance UX designer by day, and a neurodivergent anarcho-feminist by night. Just kidding,
 		I'm neurodivergent af all the time. And since I usually only start working in the evening... you
 		get the idea.
 	</p>
