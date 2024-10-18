@@ -1,8 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 @font-face {
 	font-family: 'UniWide';
 	src: url('/UniWide.otf') format('opentype');
 	font-weight: normal;
 	font-style: normal;
+}
+
+@font-face {
+	font-family: 'CMU';
+	src: url('./cmunrm.eot');
+	src:
+		url('./cmunrm.eot?#iefix') format('embedded-opentype'),
+		url('./cmunrm.woff') format('woff'),
+		url('./cmunrm.ttf') format('truetype'),
+		url('./cmunrm.svg#cmunrm') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
 }
 
 html,
