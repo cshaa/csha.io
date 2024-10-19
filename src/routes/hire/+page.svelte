@@ -8,7 +8,10 @@
 </script>
 
 <main>
-	<h1>Michal Grňo</h1>
+	<h1 class="leading-none">Michal Grňo</h1>
+	<a class="block -mt-4 mb-6 pl-3 italic" href={'mailto:cs' + 'ha' + '@tutanota.com'}
+		>→&ensp;csha{'@'}tutanota.com</a
+	>
 	<h2 class="text-xl font-bold mb-3">Zkušenosti</h2>
 	<div class="flex flex-row gap-5 font-bold mb-10">
 		<Figure img={{ src: '/js.svg', alt: 'JavaScript' }}>10+ let</Figure>
