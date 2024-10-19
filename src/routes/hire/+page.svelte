@@ -43,7 +43,7 @@
 			desetitisíci datapointy. Interně používáme GitHub (issues, CI, project board, sprints).
 		</p>
 		<p class="!mb-1">
-			<strong>Stack:</strong> SvelteKit, Tailwind, Rust, Axum, React (legacy)
+			<strong>Stack:</strong> SvelteKit, React, Tailwind, Rust, Axum
 		</p>
 		<p>
 			<strong>Team:</strong> <a href="https://codektiv.dev">Codektiv</a>
