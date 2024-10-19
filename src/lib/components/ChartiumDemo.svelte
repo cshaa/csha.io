@@ -61,7 +61,7 @@
 	});
 </script>
 
-<div class="chart w-full h-full rounded-2xl p-4 print:border print:border-black">
+<div class="chart w-full h-full rounded-2xl p-4 print:border print:border-black break-inside-avoid">
 	<Chart {traces} hideLegend>
 		<div slot="toolbar" />
 	</Chart>

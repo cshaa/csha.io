@@ -25,6 +25,15 @@
 			>, jednoho z našich předních vědců.
 		</p>
 	</Experience>
+	<Experience title="Open Source" timeSpan="2013 – současnost">
+		V průběhu 11 let mého působení v open source sféře jsem publikoval vlastní balíčky (<a
+			href="https://github.com/cshaa/svelte-plotly.js">svelte-plotly.js</a
+		>), přejal údržbu opuštěných repozitářů (<a href="https://github.com/cshaa/filtrex">filtrex</a
+		>), přispíval do aktivních projektů (<a
+			href="https://github.com/josdejong/mathjs/pulls?q=is%3Apr+author%3Acshaa">math.js</a
+		>, <a href="https://github.com/sympy/sympy/pulls?q=author%3Acshaa">sympy</a>,
+		<a href="https://github.com/supercharge/promise-pool/pull/72">promise-pool</a>).
+	</Experience>
 	<Experience title="Storage Analytics" timeSpan="2021 – současnost">
 		<p>
 			Pracuji jako frontend vývojář pro společnost Soumind. Náš hlavní produkt je soubor nástrojů
@@ -90,11 +99,8 @@ rychlou navigaci: „domů“, „seznam“, „mapa“ a „kalendář`}
 	</Experience>
 	<Experience title="Spolupráce s Druit" timeSpan="2024 – současnost">
 		<p>
-			Aute pariatur pariatur tempor aliqua mollit consequat do ut. Voluptate et nulla do anim do
-			esse consectetur reprehenderit veniam labore. Exercitation anim aliquip irure nulla. Irure eu
-			eiusmod do labore laborum Lorem incididunt fugiat consequat cillum duis duis ut eu. Eiusmod
-			non sunt adipisicing pariatur aute. Nisi anim proident ullamco laborum dolor nulla.
-			Exercitation commodo culpa ex aute qui.
+			Spolupracuji s družstvem Druit na vývoji statických webových stránek pro jejich klienty.
+			Podílel jsem se na vizuálním návrhu a nyní mám na starosti napojení frontendu na CMS.
 		</p>
 		<p>
 			<strong>Stack:</strong> Astro, Tailwind, DecapCMS
